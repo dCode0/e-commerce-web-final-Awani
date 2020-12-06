@@ -2,7 +2,7 @@
   <div class="navigation">
     <div>
   <b-navbar toggleable="lg" variant="info">
-    <b-navbar-brand to="/">E-commerce App</b-navbar-brand>
+    <b-navbar-brand to="/">Wish List</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

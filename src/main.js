@@ -30,7 +30,7 @@ const router = new VueRouter ({
   mode: 'history'
 });
 
-axios.defaults.headers.common['Authorization']  = 'Bearer gioloayon@gmail.com';
+axios.defaults.headers.common['Authorization']  = 'Bearer ibrahim.oritsetserundede.awani-mayaki@eek.ee';
 
 if(localStorage.shoppingCartId) {
   //get existing shopping cart

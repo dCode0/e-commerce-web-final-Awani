@@ -18,7 +18,7 @@
       </p>
     </b-card-text>
 
-    <b-button :to="'/products/' + product.id" variant="primary">Details</b-button>
+    <b-button :to="'/products/' + product.id" variant="success">Details</b-button>
   </b-card>
   
   
