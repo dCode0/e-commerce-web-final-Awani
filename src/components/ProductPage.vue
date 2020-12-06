@@ -37,7 +37,7 @@
 
           
           <b-form-input v-model.number="numberOfItems"
-          type="number" ></b-form-input>
+          type="number" class= "text-center" ></b-form-input>
           
 
           <b-input-group-append>

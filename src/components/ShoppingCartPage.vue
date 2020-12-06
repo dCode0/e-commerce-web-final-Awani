@@ -1,6 +1,6 @@
 <template>
   <div class="shopping-cart-page">
-    <h2>Shopping Cart</h2>
+    <h2>Shopping Cart </h2>
    <table class="table table-striped">
       <thead>
         <tr>

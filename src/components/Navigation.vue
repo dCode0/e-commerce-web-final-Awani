@@ -1,14 +1,14 @@
 <template>
   <div class="navigation">
     <div>
-  <b-navbar toggleable="lg" variant="info">
+  <b-navbar toggleable="lg" variant="success">
     <b-navbar-brand to="/">Wish List</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-        <b-nav-item to="/cart">Shopping Cart</b-nav-item>
+        <b-nav-item to="/cart">Shopping Cart ({{this.$root.$options.cart.items.length}})  </b-nav-item>
       </b-navbar-nav>
 
       <b-navbar-nav>
